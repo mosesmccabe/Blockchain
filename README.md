@@ -1,4 +1,4 @@
-# Blockchai
+# Blockchain
 ```
 Part 1: Create a blockchain 
 Part 2: Decentralize it to create a Cryptocurrency. 
