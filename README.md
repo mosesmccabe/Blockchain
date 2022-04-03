@@ -1,8 +1,9 @@
 # Blockchain
-Create a blockchain ->  Decentralize it to create a Cryptocurrency. 
+Part 1: Create a blockchain 
+Part 2: Decentralize it to create a Cryptocurrency. 
 
 
-## Branch 1 - Create a Blockchain
+## Part 1 - Create a Blockchain
 Blockchain is a list of blocks that are lined together using Hash Cryphography (SHA245).
 Each block contains a cryptographic hash of the previous block, a timestamp, and data
 
